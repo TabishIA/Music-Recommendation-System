@@ -2,7 +2,7 @@
 
 This project was developed as part of a **Machine Learning Lab Assignment** at Pune Insitute of Computer Technology. It utilizes **K-Nearest Neighbors (KNN)** and **Cosine Similarity** algorithms for recommending similar songs based on audio features like danceability, energy, loudness, and tempo.
 
-## Contributors
+## Group Members
 This project was completed by Tabish Ansari (33180), Piyush Kinekar (33164), Tanish Charthankar (33116), and Soham Kottawar (33147).
 
 ## Project Overview
